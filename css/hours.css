@@ -93,3 +93,22 @@ section{
 
 }
 /*section (end)*/
+a:link#face {
+    text-decoration: none;
+    color: #FFED53;
+    text-shadow: 1px 1px #000000;
+}
+a:visited#face {
+	text-decoration: none;
+	color: #FFB800;
+}
+a:hover#face {
+    color: #FFED53;
+    text-decoration: none;
+    text-shadow: 0px 0px #000000;
+}
+a:active#face {
+	text-decoration: none;
+	color: #FFED53;
+}
+

@@ -27,8 +27,8 @@
 	margin: 0 auto;
 	list-style: none;
 	position: relative;
-	bottom: 155px;
-	padding-left: 400px;
+	bottom: 180px;
+	padding-left: 250px;
 }
 
 #nav li{
@@ -40,7 +40,7 @@
 #nav li a {
 	color: #000;
 	opacity: 0.6;
-	font-size: 32px;
+	font-size: 64px;
 	text-decoration: none;
 	font-family: pt-sans;
 	font-style: normal;
@@ -81,7 +81,7 @@
 section{
 	font-family: Apple Symbols, Arial, Herlvetica, sans-serif;
 	font-size: 100px;
-	line-height: 44px;
+	line-height: 65px;
 	letter-spacing: -2px;
 	word-spacing: -1px;
 	width: 1,960px;

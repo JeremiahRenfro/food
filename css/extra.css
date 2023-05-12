@@ -27,14 +27,14 @@
 	margin: 0 auto;
 	list-style: none;
 	position: relative;
-	bottom: 100px;
+	bottom: 50px;
 	padding-left: 100px;
 }
 
 #nav li{
 	margin-top: 9px;	
 	float: left;
-	padding-right: 21px;
+	padding-right: 41px;
 }
 
 #nav li a {
@@ -81,7 +81,7 @@
 section{
 	font-family: Apple Symbols, Arial, Herlvetica, sans-serif;
 	font-size: 100px;
-	line-height: 88px;
+	line-height: 95px;
 	letter-spacing: -2px;
 	word-spacing: -1px;
 	width: 1,960px;
